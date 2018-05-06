@@ -18,3 +18,10 @@ fullpathname - This should include the full path name of where the image that yo
 
 example - C:/Users/ritesh/test.jpg
 
+Use blurDetect_testingscript if you have a folder full of images to be checked
+
+USAGE - python blurDetect.py [folderpath]
+
+folderpath - Give the path to your folder containing images
+
+
