@@ -1,8 +1,13 @@
 # BlurDetector
 Classifies images into blurry and good quality images using Median filter
+
 This repository contains two files.
-A matlab implmentation and a python OpenCV implementation
+
+1) A matlab implmentation
+2) Python OpenCV implementation 
+
 The Matlab file uses the Median filter and the difference image to calculate the blur of an image
+
 The Python file uses the Laplacian filter to calculate the blur
 
 blurDetect.py- To use the blurDetect.py use the below command on commandprompt. Make sure You have python 3.6 and OpenCV 3 installed.
